@@ -1,0 +1,350 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Kanit:wght@700&family=Montserrat:ital,wght@1,600&family=Secular+One&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Kanit:wght@700&family=Montserrat:ital,wght@1,600&family=Raleway:wght@500&family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Kanit:wght@700&family=Montserrat:ital,wght@1,600&family=Raleway:wght@300;400;500&family=Sanchez&family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Kanit:wght@700&family=Montserrat:ital,wght@1,600&family=Raleway:wght@300;400;500&family=Sanchez&family=Secular+One&family=Space+Grotesk:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Kanit:wght@700&family=Montserrat:ital,wght@1,600&family=Raleway:wght@300;400;500&family=Sanchez&family=Secular+One&family=Source+Serif+Pro&family=Space+Grotesk:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Kanit:wght@700&family=Montserrat:ital,wght@1,600&family=Raleway:wght@300;400;500&family=Sanchez&family=Secular+One&family=Source+Serif+4:ital,wght@1,300&family=Source+Serif+Pro&family=Space+Grotesk:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Kanit:wght@700&family=Montserrat:ital,wght@1,600&family=Raleway:wght@300;400;500&family=Sanchez&family=Secular+One&family=Source+Serif+4:ital,wght@1,300&family=Source+Serif+Pro&family=Space+Grotesk:wght@300&display=swap');
+*{
+    padding:0;
+    margin:0;
+}
+/* navbar */
+.navbar{
+  position: sticky;
+  top:0;
+}
+nav{
+  background: linear-gradient(to right,#DA22FF 10%,#9733EE 70%);
+}
+.navbar-brand{
+  position: relative;
+  font-size: 48px;
+  font-family: 'DM Sans', sans-serif;
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Secular One', sans-serif;
+  font-weight:bold;
+  left: 15px;
+  font-size:30px;
+  width:5px;
+}
+.navbar-collapse{
+    margin-left: 10px;  
+}
+
+.navbar-nav{
+    font-size: 20px;
+     
+}
+
+.navbar-nav li{
+    padding: 10px;
+    
+}
+
+.navbar-nav .nav-item .nav-link{
+    font-size: 20px;  
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Secular One', sans-serif;
+    
+}
+
+   /* banner */
+  
+.image-banner{
+  background: linear-gradient(to right,#DA22FF 10%,#9733EE 70%);
+}
+.heading{
+  font-family: 'Josefin Sans', cursive;
+}
+
+.image-banner{
+  height:100%;
+  /* border:2px solid black; */
+  
+}
+.content-big{
+  padding-top: 20px;
+}
+@media (max-width:991px) {
+  .content{
+     text-align: center;
+  }
+  
+}
+.heading{
+    color:azure;
+    font-size: 48px;
+   font-family: 'DM Sans', sans-serif;
+   font-family: 'Kanit', sans-serif;
+   font-family: 'Montserrat', sans-serif;
+   font-family: 'Secular One', sans-serif;
+   
+}
+.tagline{
+  color:aliceblue;
+     font-family: 'DM Sans', sans-serif;
+     font-family: 'Kanit', sans-serif;
+     font-family: 'Montserrat', sans-serif;
+     font-family: 'Raleway', sans-serif;
+     font-family: 'Secular One', sans-serif;
+}
+
+ <!---footer-->
+
+footer{
+  border:2px solid black;
+}
+
+.products p  a{
+    text-decoration: none;
+  
+}
+
+.services P a{
+     text-decoration: none;
+}
+
+/* webcontent */
+.blog{
+  margin-top:60px; 
+  /* margin-bottom:60px;
+  font-family: 'DM Sans', sans-serif;
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Secular One', sans-serif;
+  /* border:2px solid black; */
+}
+.blogs > button{
+  color:red;
+}
+.blogs > hr{
+  display: flex;
+  border: 2px solid black;
+}
+.blogs > h1{
+  font-family: 'DM Sans', sans-serif;
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Sanchez', serif;
+  font-family: 'Secular One', sans-serif;
+  font-family: 'Source Serif 4', serif;
+  font-family: 'Source Serif Pro', serif;
+  font-family: 'Space Grotesk', sans-serif;
+}
+.blogs > p{
+  font-family: 'DM Sans', sans-serif;
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Sanchez', serif;
+  font-family: 'Secular One', sans-serif;
+  font-family: 'Source Serif 4', serif;
+  font-family: 'Source Serif Pro', serif;
+  font-family: 'Space Grotesk', sans-serif;
+
+}
+
+
+/* home page cards */
+
+
+.Homecard {  
+
+  overflow: hidden;
+  margin-top:50px;
+  margin-bottom:50px;
+  
+
+}
+
+.Homecard > .row >.col > img{
+  width:300px;
+  height:200px;
+}
+.Homecard > .row >.col >h3{
+  font-family: 'DM Sans', sans-serif;
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Secular One', sans-serif;
+}
+.Homecard > h1{
+  font-family: 'DM Sans', sans-serif;
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Sanchez', serif;
+  font-family: 'Secular One', sans-serif;
+  font-family: 'Source Serif 4', serif;
+  font-family: 'Source Serif Pro', serif;
+  font-family: 'Space Grotesk', sans-serif;
+}
+.Homecard > .row >.col >p{
+  font-family: 'DM Sans', sans-serif;
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Sanchez', serif;
+  font-family: 'Secular One', sans-serif;
+  font-family: 'Source Serif 4', serif;
+  font-family: 'Source Serif Pro', serif;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+.Homecard > .row >h1{
+  font-family: 'DM Sans', sans-serif;
+   font-family: 'Kanit', sans-serif;
+   font-family: 'Montserrat', sans-serif;
+   font-family: 'Secular One', sans-serif;
+}
+
+/* service */
+
+.quote{
+  margin-top:50px;
+  margin-bottom:50px;
+}
+.service h3{
+  font-family: 'DM Sans', sans-serif;
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Secular One', sans-serif;
+}
+
+.service h1{
+  font-family: 'DM Sans', sans-serif;
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Sanchez', serif;
+  font-family: 'Secular One', sans-serif;
+}
+
+
+@media (max-width:973px){
+  .order {
+  display: flex;
+  flex-direction:column-reverse;
+}
+}
+
+@media (max-width:990px){
+   .design{
+    text-align: center;
+   }
+}
+
+
+/* contact page */
+.contact{
+width: 100%;
+height: 100%;
+display: flex;
+align-items: center;
+justify-content: center
+}
+h3{
+  font-family: 'DM Sans', sans-serif;
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Secular One', sans-serif;
+}
+
+.contact-content{
+  margin-top:50px;
+}
+
+.contact > .row{
+  display:flex;
+  flex-wrap:wrap;
+}
+
+form{
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  padding: 2vw 4vw;
+  width: 100%;
+  max-width: 600px;
+  border-radius: 10px;
+  margin-top:50px;
+  margin-bottom:50px;
+}
+form h3{
+  color: #555;
+  font-weight: 800;
+  margin-bottom: 20px;
+  font-family: 'DM Sans', sans-serif;
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Secular One', sans-serif;
+}
+
+form input, form textarea {
+  border: 0;
+  margin: 10px 0;
+  padding: 20px;
+  outline: none;
+  background: #f5f5f5;
+  font-size: 16px;
+  }
+
+form button{
+    padding: 15px;
+    background: #ff5361;
+    color:#fff;
+    font-size: 18px;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    width: 150px;
+    margin: 20px auto 0;
+    border-radius: 30px;
+ }
+
+ /* blog */
+.blog h1{
+  font-family: 'DM Sans', sans-serif;
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Sanchez', serif;
+  font-family: 'Secular One', sans-serif;
+  font-family: 'Source Serif Pro', serif;
+  font-family: 'Space Grotesk', sans-serif;
+}
+.blog > .headline{
+  font-family: 'DM Sans', sans-serif;
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Sanchez', serif;
+  font-family: 'Secular One', sans-serif;
+  font-family: 'Source Serif 4', serif;
+  font-family: 'Source Serif Pro', serif;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+.blog p{
+font-family: 'DM Sans', sans-serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Sanchez', serif;
+font-family: 'Secular One', sans-serif;
+font-family: 'Space Grotesk', sans-serif;
+}
+
+.blog > .row{
+  margin-top:100px;
+}
+.blog > .img-width{
+  width:900px;
+  height:800px;
+}
