@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/code-spot/static/css/main.ad095beb.css",
+    "main.js": "/code-spot/static/js/main.aeea89a0.js",
+    "static/media/Blog.jpg": "/code-spot/static/media/Blog.1c0bb2c576cff109109b.jpg",
+    "static/media/branding.jpg": "/code-spot/static/media/branding.487a704abbc8e569dc25.jpg",
+    "static/media/custome.jpg": "/code-spot/static/media/custome.5e5c1f277d33ef694210.jpg",
+    "static/media/contact2.jpg": "/code-spot/static/media/contact2.8eee4c0781ef34a07063.jpg",
+    "static/media/uxdesign.jpg": "/code-spot/static/media/uxdesign.3b83eb57c9d4c6d3b8e1.jpg",
+    "static/media/company.jpg": "/code-spot/static/media/company.37ea26b4c8cbbc439f88.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/code-spot/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/startups.jpg": "/code-spot/static/media/startups.12854c8d39cc7a94f303.jpg",
+    "static/media/digital.jpg": "/code-spot/static/media/digital.d2f452c4094e4b6c5c22.jpg",
+    "static/media/localbusiness.jpg": "/code-spot/static/media/localbusiness.16bf70bd9616f250c948.jpg",
+    "static/media/fontawesome-webfont.eot": "/code-spot/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/code-spot/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/commerce.png": "/code-spot/static/media/commerce.acf1ea7f1a16ee815b4c.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/code-spot/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/rocket3.png": "/code-spot/static/media/rocket3.ea8112046343e86faf53.png",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/code-spot/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/code-spot/index.html",
+    "main.ad095beb.css.map": "/code-spot/static/css/main.ad095beb.css.map",
+    "main.aeea89a0.js.map": "/code-spot/static/js/main.aeea89a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad095beb.css",
+    "static/js/main.aeea89a0.js"
+  ]
+}
