@@ -16,7 +16,7 @@ export const Service = () =>{
                      <img style={{width:"100%",height:"70%"}} src={ux} alt="ux/ui"/>
                   </div>
                   <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-12 col-sm-12 col-xs-12" >
-                        <h1>Vishual Design</h1>
+                        <h1>Visual Design</h1>
                         <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at 
                         its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters</p>
                   </div>
@@ -55,12 +55,12 @@ export const Service = () =>{
                   </div>
                </div>
                      <div class="text-center">
-                        <h3>By Platform</h3>
+                        {/* <h3>By Platform</h3> */}
                         <hr class="platform"style={{width:"40%",display:"flex",margin:"auto",border:"2px solid black"}}/>
                      </div>
                         
                      <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-12 col-sm-12 col-xs-12 ">
-                     <img style={{width:"100%",height:"100%"}} src={brand} alt="ux/ui"/>
+                     {/* <img style={{width:"100%",height:"100%"}} src={brand} alt="ux/ui"/> */}
                   </div>
 
             

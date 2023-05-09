@@ -11,7 +11,7 @@
     margin:0;
 }
 
-<!---navbar--->
+/* navbar */
 
 .navbar{
   position: sticky;
@@ -56,7 +56,7 @@ nav{
     
 }
 
-   <!--banner-->
+   /* <--banner--> */
   
 .image-banner{
   background: linear-gradient(to right,#DA22FF 10%,#9733EE 70%);
@@ -97,10 +97,10 @@ nav{
      font-family: 'Secular One', sans-serif;
 }
 
- <!---footer-->
+ /* <---footer--> */
 
 footer{
-  border:2px solid black;
+  /* border:2px solid black; */
 }
 
 .products p  a{
@@ -112,7 +112,7 @@ footer{
      text-decoration: none;
 }
 
-<!---webcontent---->
+/* <---webcontent----> */
 
 .blog{
   margin-top:60px; 
@@ -150,7 +150,7 @@ footer{
 }
 
 
-<!---homepagecards---> 
+/* <---homepagecards--->  */
 
 
 .Homecard {  
@@ -202,7 +202,7 @@ footer{
    font-family: 'Secular One', sans-serif;
 }
 
-<!---service---> 
+/* <---service--->  */
 
 .quote{
   margin-top:50px;
@@ -239,7 +239,7 @@ footer{
 }
 
 
- <!----ContactPage---->  
+ /* <----ContactPage---->   */
 
 .contact{
 width: 100%;
@@ -307,7 +307,7 @@ form button{
     border-radius: 30px;
  }
 
- <!---blog--->
+ /* <---blog---> */
 .blog h1{
   font-family: 'DM Sans', sans-serif;
   font-family: 'Kanit', sans-serif;

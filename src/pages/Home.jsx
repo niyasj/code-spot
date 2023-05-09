@@ -10,7 +10,7 @@ export const Home = () =>{
           <section class="blogs text-center ">
           <div class="row justify-content-center">
           <div class="col col-7">
-              <h1 class="mb-5">What we Do?</h1>
+              <h1 class="mb-5 mt-4">What we Do?</h1>
              {/* <hr style={{width:"60%",marginLeft:"18%"}}/> */}
               <p >At <span style={{fontWeight:"bold"}}>CodeSpot</span>, we are passionate about helping businesses reach 
                  their full potential through technology. Whether 

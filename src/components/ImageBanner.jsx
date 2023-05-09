@@ -12,7 +12,7 @@ function ImageBanner(){
         <div class="row  cotainer content-big align-items-center justify-content-around">
         <div class="  col-lg-4 col-sm-12 content ">
              <h1 class="heading">Boost Your Business</h1>
-             <p  class="tagline">Lorem IpsumFis simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley</p>
+             <p  class="tagline">At CodeSpot, we are passionate about helping businesses reach their full potential through technology. Whether you need a custom software solution, a mobile app, or a web-based platform</p>
              <Button type="submit">Learn More</Button>
         </div>
         <div class=" col-lg-4 col-sm-12  ">

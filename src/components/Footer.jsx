@@ -46,7 +46,7 @@ const Footer = () => {
         <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
          
           <h6 class="text-uppercase fw-bold mb-4">
-            CodeSpot
+            DigiSpot
           </h6>
           <p>
               Boost your business with us,codespot enable to bring your business online and
@@ -100,7 +100,7 @@ const Footer = () => {
           
           <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
           <p><FaSearchLocation/> karur,639117</p>
-          <p><FaEnvelope/> codespot@gmail.com</p>
+          <p><FaEnvelope/> DigiSpot@gmail.com</p>
           <p> <FaPhoneAlt/> +918248890425</p>
       
         </div>
@@ -112,7 +112,7 @@ const Footer = () => {
 
   <div class="text-center p-4" style={{backgroundColor: "rgba(0, 0, 0, 0.05)"}}>
     © 2023 Copyright:
-    <a class="text-reset fw-bold" href="https://mdbootstrap.com/" style={{textDecoration:"none"}}>codespot</a>
+    <a class="text-reset fw-bold" href="https://mdbootstrap.com/" style={{textDecoration:"none"}}>DigiSpot</a>
   </div>
  
 </footer>
