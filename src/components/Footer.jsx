@@ -43,7 +43,7 @@ const Footer = () => {
      
       <div class="row mt-3">
         
-        <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+        <div class="col-md-6 col-lg-4 col-xl-3 mx-auto mb-4">
          
           <h6 class="text-uppercase fw-bold mb-4">
             CodeSpot
@@ -54,7 +54,7 @@ const Footer = () => {
           </p>
         </div>
       
-        <div class="products col-md-2 col-lg-2 col-xl-2 mx-auto mb-4" >
+        <div class="products col-md-6 col-lg-2 col-xl-2 mx-auto mb-4" >
           
           <h6 class="text-uppercase fw-bold mb-4">
             Products
@@ -75,7 +75,7 @@ const Footer = () => {
         
 
     
-        <div class="services   col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+        <div class="services   col-md-6 col-lg-2 col-xl-2 mx-auto mb-4">
          
           <h6 class="text-uppercase fw-bold mb-4">
             Services
@@ -96,7 +96,7 @@ const Footer = () => {
       
 
        
-        <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+        <div class="col-md-6 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
           
           <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
           <p><FaSearchLocation/> karur,639117</p>
